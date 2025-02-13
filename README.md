@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! I'm Konstan
 I'm a third-year student in Atmospheric Sciences with a minor in Data Science and AI. I have a strong passion for data and aim to pursue a career in data science. <br>
 About Me <br>
 📊 Interested in data analysis, machine learning, and AI applications in weather and climate sciences. <br>
