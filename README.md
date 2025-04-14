@@ -1,4 +1,4 @@
-![👋 Hi, my name is Konstan Aftop](https://github.com/KonstanAftop/KonstanAftop/blob/main/github-header-image.png)
+![👋 Hi, my name is Konstan Aftop]
 
 <div id="toc">
   <ul align="left" style="list-style: none">
