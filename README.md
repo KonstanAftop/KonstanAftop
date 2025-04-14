@@ -10,10 +10,7 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
-
- <h3 align="left"> <p>I'm a university student based in Indonesia, majoring in Meteorology with a minor in Data Science and AI. I'm driven by a deep curiosity about the atmosphere and a passion for transforming data into actionable insights. 
+  <p>I'm a university student based in Indonesia, majoring in Meteorology with a minor in Data Science and AI. I'm driven by a deep curiosity about the atmosphere and a passion for transforming data into actionable insights. 
 
 <p>Python is my go-to toolkit — whether it's automating workflows, analyzing complex datasets, or building machine learning models. I’m fluent in data science libraries like pandas, NumPy, scikit-learn, matplotlib, seaborn, and TensorFlow, and I specialize in meteorological spatial data with tools like xarray and cartopy.
 
