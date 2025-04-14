@@ -13,11 +13,13 @@
 <p>My ultimate goal? To bridge the gap between environmental science and machine learning — applying intelligent systems to tackle real-world climate challenges and drive meaningful impact.</p>
 
 <br>
-- 🌦️ Meteorology major | Data Science & AI minor  
-- 🛠️ Obsessed with automation, clean code, and smart solutions  
-- 📊 Proficient in pandas, NumPy, matplotlib, seaborn, scikit-learn, TensorFlow, and more  
-- 🧭 Navigating atmospheric data with xarray, cartopy, and MetPy  
-- 🌍 Focused on using tech for a more sustainable future
+<ul>
+  <li>🌦️ Meteorology major | Data Science & AI minor</li>
+  <li>🛠️ Obsessed with automation, clean code, and smart solutions</li>
+  <li>📊 Proficient in pandas, NumPy, matplotlib, seaborn, scikit-learn, TensorFlow, and more</li>
+  <li>🧭 Navigating atmospheric data with xarray, cartopy, and MetPy</li>
+  <li>🌍 Focused on using tech for a more sustainable future</li>
+</ul>
 
 Let’s connect, collaborate, or chat about how we can make science and technology work for the planet.
 
