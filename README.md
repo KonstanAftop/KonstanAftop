@@ -1,8 +1,13 @@
-## Hi there! I'm Konstan
-I'm a third-year student in Atmospheric Sciences with a minor in Data Science and AI. I have a strong passion for data and aim to pursue a career in data science. <br>
-About Me <br>
-📊 Interested in data analysis, machine learning, and AI applications in weather and climate sciences. <br>
-🐍 Proficient in Python and experienced with libraries such as NumPy, pandas, Matplotlib, Seaborn, and scikit-learn.<br>
-🌱 Constantly learning and exploring new techniques in data science and AI.<br>
-📫 Connect with Me<br>
-Feel free to reach out if you'd like to collaborate or discuss anything related to data science and atmospheric sciences!<br>
+![Banner](https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png)
+
+I'm a high school student who lives in the United States. I'm learning how to code. I love making and designing webpages with HTML and CSS (and possible JavaScript in the future).  It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++ and Python because they challenge me more. I love it when I can finally solve a difficult problem.
+
+For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
+
+- 🌱 I’m currently learning HTML, CSS, Python, and C++.
+- 🔭 I’m currently working on creating webpages and learning how to progam.
+- 😀 I like to crochet, code, read, and draw in my free time.
+- 💬 Ask me about fountain pens.
+- ⚡ Fun fact: My first line of code was not "Hello World!"
+
+[![Waru's Github Stats](https://github-readme-stats.vercel.app/api?username=KonstanAftop)](https://github.com/anuraghazra/github-readme-stats)
