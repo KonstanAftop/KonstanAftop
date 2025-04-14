@@ -17,4 +17,7 @@ My ultimate goal? To bridge the gap between environmental science and machine le
 🌍 Focused on using tech for a more sustainable future
 
 Let’s connect, collaborate, or chat about how we can make science and technology work for the planet.
+
 [![Waru's Github Stats](https://github-readme-stats.vercel.app/api?username=KonstanAftop)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KonstanAftop&show_icons=true&theme=radical)
