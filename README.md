@@ -13,7 +13,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left"> <p>I'm a university student based in Indonesia, majoring in Meteorology with a minor in Data Science and AI. I'm driven by a deep curiosity about the atmosphere and a passion for transforming data into actionable insights. 
+ <h3 align="left"> <p>I'm a university student based in Indonesia, majoring in Meteorology with a minor in Data Science and AI. I'm driven by a deep curiosity about the atmosphere and a passion for transforming data into actionable insights. 
 
 <p>Python is my go-to toolkit — whether it's automating workflows, analyzing complex datasets, or building machine learning models. I’m fluent in data science libraries like pandas, NumPy, scikit-learn, matplotlib, seaborn, and TensorFlow, and I specialize in meteorological spatial data with tools like xarray and cartopy.
 
@@ -29,7 +29,7 @@
 
 🌍 Focused on using tech for a more sustainable future
 
-Let’s connect, collaborate, or chat about how we can make science and technology work for the planet.</h3>**
+Let’s connect, collaborate, or chat about how we can make science and technology work for the planet.</h3>
 
  **<h3 align="left">Skills</h3>**
 
@@ -41,7 +41,3 @@ Let’s connect, collaborate, or chat about how we can make science and technolo
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KonstanAftop&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KonstanAftop&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
-
- **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
