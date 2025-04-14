@@ -1,5 +1,3 @@
-![👋 Hi, my name is Konstan Aftop]
-
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
