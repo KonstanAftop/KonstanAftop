@@ -1,11 +1,24 @@
-![Banner](https://raw.githubusercontent.com/KonstanAftop/KonstanAftop/main/github-header-image.png)
+![👋 Hi, my name is Konstan Aftop](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-Hey there! I'm a university student based in Indonesia, majoring in Meteorology with a minor in Data Science and AI. I'm driven by a deep curiosity about the atmosphere and a passion for transforming data into actionable insights.
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Konstan Aftop
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-Python is my go-to toolkit — whether it's automating workflows, analyzing complex datasets, or building machine learning models. I’m fluent in data science libraries like pandas, NumPy, scikit-learn, matplotlib, seaborn, and TensorFlow, and I specialize in meteorological spatial data with tools like xarray and cartopy.
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-My ultimate goal? To bridge the gap between environmental science and machine learning — applying intelligent systems to tackle real-world climate challenges and drive meaningful impact.
+ **<h3 align="left"> <p>I'm a university student based in Indonesia, majoring in Meteorology with a minor in Data Science and AI. I'm driven by a deep curiosity about the atmosphere and a passion for transforming data into actionable insights. 
 
+<p>Python is my go-to toolkit — whether it's automating workflows, analyzing complex datasets, or building machine learning models. I’m fluent in data science libraries like pandas, NumPy, scikit-learn, matplotlib, seaborn, and TensorFlow, and I specialize in meteorological spatial data with tools like xarray and cartopy.
+
+<p>My ultimate goal? To bridge the gap between environmental science and machine learning — applying intelligent systems to tackle real-world climate challenges and drive meaningful impact.
+<br>
 🌦️ Meteorology major | Data Science & AI minor
 
 🛠️ Obsessed with automation, clean code, and smart solutions
@@ -16,6 +29,19 @@ My ultimate goal? To bridge the gap between environmental science and machine le
 
 🌍 Focused on using tech for a more sustainable future
 
-Let’s connect, collaborate, or chat about how we can make science and technology work for the planet.
+Let’s connect, collaborate, or chat about how we can make science and technology work for the planet.</h3>**
 
-[![Konstan's Github Stats](https://github-readme-stats.vercel.app/api?username=KonstanAftop)](https://github.com/anuraghazra/github-readme-stats)
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=r" height="32" alt="R" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="32" alt="Scikit-learn" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="32" alt="TensorFlow" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" height="32" alt="Keras" style="margin-right: 4px"> <img src="https://img.shields.io/badge/NLTK-4B8BBE?logo=nltk&logoColor=white" height="32" alt="NLTK" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="32" alt="Pandas" style="margin-right: 4px"> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="32" alt="OpenAI" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KonstanAftop&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KonstanAftop&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
+
+ **<h3 align="left">Support Me</h3>**
+
+<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
