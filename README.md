@@ -11,8 +11,6 @@
 <p>Python is my go-to toolkit — whether it's automating workflows, analyzing complex datasets, or building machine learning models. I’m fluent in data science libraries like pandas, NumPy, scikit-learn, matplotlib, seaborn, and TensorFlow, and I specialize in meteorological spatial data with tools like xarray and cartopy.</p>
 
 <p>My ultimate goal? To bridge the gap between environmental science and machine learning — applying intelligent systems to tackle real-world climate challenges and drive meaningful impact.</p>
-
-<br>
 <ul>
   <li>🌦️ Meteorology major | Data Science & AI minor</li>
   <li>🛠️ Obsessed with automation, clean code, and smart solutions</li>
