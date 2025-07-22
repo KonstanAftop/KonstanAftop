@@ -36,4 +36,4 @@ Let’s connect, collaborate, or chat about how we can make science and technolo
 
 <h3 align="left">GitHub Stats</h3>
 
-<p align="left"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KonstanAftop&show_icons=true&theme=react&count_private=true" alt="GitHub Stats"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstanAftop&layout=compact&theme=react&hide=html" alt="Top Languages"/> </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstanAftop)](https://github.com/KonstanAftop/github-readme-stats)
