@@ -36,7 +36,4 @@ Let’s connect, collaborate, or chat about how we can make science and technolo
 
 <h3 align="left">GitHub Stats</h3>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KonstanAftop&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KonstanAftop&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
+<p align="left"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KonstanAftop&show_icons=true&theme=react&count_private=true" alt="GitHub Stats"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstanAftop&layout=compact&theme=react&hide=html" alt="Top Languages"/> </p>
