@@ -36,4 +36,4 @@ Let’s connect, collaborate, or chat about how we can make science and technolo
 
 <h3 align="left">GitHub Stats</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstanAftop)](https://github.com/KonstanAftop/github-readme-stats)
+[![Konstan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstanAftop)](https://github.com/KonstanAftop/github-readme-stats)
