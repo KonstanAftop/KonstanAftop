@@ -25,7 +25,3 @@ Let’s connect and build something meaningful with data!
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 
 ---
-
-### 📈 GitHub Stats
-
-[![Konstan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstanAftop&show_icons=true&theme=default)](https://github.com/KonstanAftop/github-readme-stats)
